@@ -1,0 +1,58 @@
+
+h1 {
+    margin-bottom: 25px;
+    text-align: center;
+}
+.row {
+    width: 100%;
+    
+     }
+
+ [class*=' col-']  
+ {
+    border: 2px solid black;
+    text-align: left;
+    background-color: #696363a2;
+    width: 90%;
+    margin-right: 1%;
+    margin-bottom: 5px;
+    height: 150px;
+    font-family: Helvetica;
+    color: black;
+    margin-left: auto;
+    font-family: Helvetica;
+    color: black;
+  }
+
+
+.pink{
+    background-color: #ffc0cb;
+    border: 2px solid black;
+    text-align: center;
+    float: right;
+    width: 45%;
+    }
+
+ .red{
+    background-color: red;
+    border: 2px solid black;
+    text-align: center;
+    float: right;
+    font-family: Helvetica;
+    color: white;
+    width: 45%;
+
+ }
+
+.yellow{
+    background-color: yellow;
+    border: 2px solid black;
+    text-align: center;
+    float:right;
+    width: 45%;
+    }
+
+p{
+    border-top: 3px;
+}
+
